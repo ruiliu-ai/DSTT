@@ -6,7 +6,7 @@ This repo is the official Pytorch implementation of [Decoupled Spatial-Temporal 
 
 ## Introduction
 <img src='imgs/intro1.png' width="900px">
-<img src='imgs/intro2.png' width="400px">
+<div align=center><img src='imgs/intro2.png' width="350px"></div>
 
 ## Citing DSTT
 If you find DSTT useful in your research, please consider citing:
